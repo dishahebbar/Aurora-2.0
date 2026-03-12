@@ -116,6 +116,10 @@ AURORA 2.0 includes a Streamlit-based dashboard to visualize results without tou
 3.  Run the following command:
     python -m streamlit run ui/app.py
 
+    OR
+
+    Use this link to view the app: https://aurora-20-ntdd4wmcylnoeetv3wyxcx.streamlit.app/
+
 **Features:**
 - **Mine Selector:** Automatically detects all available mine folders in `Mine Data/`.
 - **Gallery:** Browses generated maps and plots (Spatial Maps, Growth Rates, Confidence Heatmaps).
