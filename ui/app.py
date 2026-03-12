@@ -808,7 +808,7 @@ with tab1:
         st.info("No spatial analysis maps available for this mine site.")
     else:
         st.markdown("""
-        ** Monitoring Timeline:** The following maps display the spatial distribution and temporal evolution 
+        **Monitoring Timeline:** The following maps display the spatial distribution and temporal evolution 
         of excavated areas throughout the monitoring period, from initial detection to current status.
         """)
         
